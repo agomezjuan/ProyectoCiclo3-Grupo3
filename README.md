@@ -12,3 +12,4 @@
 - Edier Largo
 - Mauricio Gualteros
 
+[Enlace al diseño en Figma](https://www.figma.com/file/c6A3G9C8iSQtb1sWaCB7l7/Reservas-de-Canchas)
